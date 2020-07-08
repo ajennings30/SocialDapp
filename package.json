@@ -22,7 +22,7 @@
     "truffle": "^5.1.33",
     "web3": "1.0.0-beta.55"
   },
-  "homepage": "https://github.com/ajennings30/SocialDapp",
+  "homepage": "https://ajennings30.github.io/SocialDapp",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
